@@ -52,6 +52,6 @@
   "homepage": "https://bitbucket.org/pasqualevitiello/ellie#readme",
   "main": ".eslintrc.js",
   "dependencies": {
-    "axios": "0.19.0"
+    "axios": "0.21.1"
   }
 }
